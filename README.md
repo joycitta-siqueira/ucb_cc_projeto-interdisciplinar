@@ -24,11 +24,11 @@ deles?
 * É pedido endereço ou alguma forma de contato das famílias das crianças?
 
 # Tópicos importantes
-Para	[clientes e usuários alvo]
-Que	[declaração da necessidade ou oportunidade]
-O	[nome do produto]
-É um	[categoria do produto]
-Que	[objetivo principal do software; do ponto de vista do usuário]
-Diferente de	[alternativa do mercado, principal concorrente ou solução atual]
-Nosso produto	[principais diferenciais]
+* Para	[clientes e usuários alvo]
+* Que	[declaração da necessidade ou oportunidade]
+* O	[nome do produto]
+* É um	[categoria do produto]
+* Que	[objetivo principal do software; do ponto de vista do usuário]
+* Diferente de	[alternativa do mercado, principal concorrente ou solução atual]
+* Nosso produto	[principais diferenciais]
 
