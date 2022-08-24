@@ -1,4 +1,9 @@
 # Sistema de Apadrinhamento 
+
+## Sites - Fotos
+* [Fotos das Campanhas de Natal](https://centroespiritaserapiaoribeiro.com/campanha-de-natal)
+* [Instagram](https://www.instagram.com/natal.ceserapiaoribeiro/)
+
 ## Questões:
 * Como é feita a distribuição das cartas e dos padrinhos?
 * Como os padrinhos chegam até o projeto, e como eles se cadastram?
